@@ -1,7 +1,7 @@
 # API
 API significa interface de programação de aplicações, um conjunto de definições e protocolos para criar e integrar softwares de aplicações.
 
-#Como as APIs funcionam?
+# Como as APIs funcionam?
 Com as APIs, sua solução ou serviço podem se comunicar com outros produtos e serviços sem precisar saber como eles foram implementados. Isso simplifica o desenvolvimento de aplicações, gerando economia de tempo e dinheiro. Na hora de desenvolver suas novas ferramentas e soluções (ou ao gerenciar aquelas já existentes), as APIs oferecem a flexibilidade necessária para simplificar o design, a administração e o uso, além de trazer oportunidades de inovação.
 
 As APIs funcionam como se fossem contratos, com documentações que representam um acordo entre as partes interessadas. Se uma dessas partes enviar uma solicitação remota estruturada de uma forma específica, isso determinará como a aplicação da outra parte responderá.
